@@ -1,6 +1,13 @@
 
-<div>
-  
+<div align="left">
+    <ul  href="https://github.com/artking28" style="display: inline-block">
+        <li style="display: inline-block">
+            <img width="50%" src="https://github-readme-stats.vercel.app/api?username=artking28&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+        </li>
+        <li style="display: inline-block">
+            <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artking28&layout=compact&langs_count=7&theme=gotham"/>
+        </li>
+    </ul>
 </div>
 <div>
     <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;I'm&nbsp;well&nbsp;used&nbsp;to</b></summary>
