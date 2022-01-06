@@ -9,7 +9,8 @@
         </li>
     </ul>
 </div>
-<div>
+<details>
+    <div>
     <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;I'm&nbsp;well&nbsp;used&nbsp;to</b></summary>
     <br/>
     <p align="left">
@@ -83,7 +84,9 @@
         </a>
     </p>
 </div>
-<div>
+</details>
+<details>
+    <div>
     <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;I&nbsp;don't&nbsp;know&nbsp;but&nbsp;I&nbsp;wanna&nbsp;learn</b>
     </summary>
     <br/>
@@ -137,3 +140,5 @@
         </a>
     </p>
 </div>
+
+</details>
