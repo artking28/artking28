@@ -1,9 +1,14 @@
-<div align="left">
-    <img width="50%"
-         src="https://github-readme-stats.vercel.app/api?username=artking28&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img width="50%"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=artking28&layout=compact&langs_count=7&theme=gotham"/>
+<div>
+    <div class="" style="display:inline-block">
+        <img style="width: 350px; size: auto;" src="https://github-readme-stats.vercel.app/api?username=artking28&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    </div>
+    </br>
+    <div class="" style="display:inline-block">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artking28&layout=compact&langs_count=7&theme=gotham"/>
+    </div>
 </div>
+</br>
+</br>
 <details>
     <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;I'm&nbsp;well&nbsp;used&nbsp;to</b></summary>
     <br/>
@@ -78,6 +83,7 @@
         </a>
     </p>
 </details>
+</br>
 <details>
     <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;I&nbsp;don't&nbsp;know&nbsp;but&nbsp;I&nbsp;wanna&nbsp;learn</b>
     </summary>
