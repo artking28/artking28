@@ -10,7 +10,7 @@
 </br>
 </br>
 <details>
-    <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;I'm&nbsp;well&nbsp;used&nbsp;to</b></summary>
+    <summary><b>🛠️&nbsp;&nbsp;Used&nbsp;to</b></summary>
     <br/>
     <p align="left">
         <a href="https://www.java.com/pt-BR/" target="_blank">
@@ -81,7 +81,7 @@
 </details>
 </br>
 <details>
-    <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;I&nbsp;don't&nbsp;know&nbsp;but&nbsp;I&nbsp;wanna&nbsp;learn</b>
+    <summary><b>🛠️&nbsp;&nbsp;Future&nbsp;knowledge</b>
     </summary>
     <br/>
     <p align="left">
