@@ -38,7 +38,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
                  alt="postman" width="40"
                  height="40"/>
-        </a>
+        </a> 
         <a href="https://angular.io" target="_blank">
             <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
                  height="40"/>
