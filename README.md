@@ -124,5 +124,9 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
                  width="40" height="40"/>
         </a>
+        <a href="https://graphql.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+                 width="40" height="40"/>
+        </a>
     </p>
 </details>
