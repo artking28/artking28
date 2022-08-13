@@ -13,10 +13,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                  alt="html5" width="40" height="40"/>
         </a>
-        <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"
-                 alt="html5" width="40" height="40"/>
-        </a>
         <a href="https://maven.apache.org/" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg"
                  alt="html5" width="40" height="40"/>
@@ -33,11 +29,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                  alt="javascript" width="40" height="40"/>
         </a>
-        <a href="https://code.visualstudio.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-                 alt="postman" width="40"
-                 height="40"/>
-        </a> 
         <a href="https://angular.io" target="_blank">
             <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
                  height="40"/>
@@ -45,6 +36,10 @@
         <a href="https://spring.io/projects/spring-boot" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
                  alt="mongodb" width="40" height="40"/>
+        </a>
+        <a href="https://www.npmjs.com/" target="_blank">
+             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
+                 alt="npm" width="40" height="40"/>
         </a>
         <a href="https://postman.com" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
@@ -61,17 +56,9 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
                  alt="mysql" width="40" height="40"/>
         </a>
-        <a href="https://www.jetbrains.com/datagrip/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg"
-                 alt="mysql" width="40" height="40"/>
-        </a>
         <a href="https://hibernate.org/" target="_blank">
             <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"
                  alt="mysql" width="40" height="40"/>
-        </a>
-        <a href="https://www.apple.com/br/ios/ios-15/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg" alt="postman" width="40"
-                 height="40"/>
         </a>
     </p>
 </details>
