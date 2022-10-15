@@ -60,6 +60,10 @@
             <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"
                  width="40" height="40"/>
         </a>
+        <a href="https://go.dev/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+                 width="40" height="40"/>
+        </a>
     </p>
 </details>
 </br>
@@ -110,10 +114,6 @@
     <p align="left">
         <a href="https://www.docker.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-                 width="40" height="40"/>
-        </a>
-        <a href="https://go.dev/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
                  width="40" height="40"/>
         </a>
         <a href="https://www.mongodb.com/" target="_blank">
