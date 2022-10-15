@@ -1,7 +1,7 @@
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artking28&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artking28&layout=compact&langs_count=7&theme=gotham"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=artking28&amp;show_icons=true&amp;theme=gotham&amp;include_all_commits=true&amp;count_private=true" style="display: inline-block;width: 49.5%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artking28&amp;layout=compact&amp;langs_count=7&amp;theme=gotham" style="display: inline-block;width: 49.5%;">
 </div>
 </br>
 </br>
