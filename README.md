@@ -81,10 +81,10 @@ style="display: inline-block;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
                  width="40" height="40"/>
         </a>
-        <a href="https://developer.android.com/kotlin/learn?hl=pt-br" target="_blank">
+<!--        <a href="https://developer.android.com/kotlin/learn?hl=pt-br" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
                  width="40" height="40"/>
-        </a>
+        </a> -->
         <a href="https://grafana.com" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40"
                  height="40"/>
